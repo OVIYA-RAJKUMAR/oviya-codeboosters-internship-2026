@@ -1,0 +1,5 @@
+city,country,temperature,feels_like,humidity,pressure,weather,description,wind_speed,temperature_fahrenheit
+Chennai,India,34,38,70,1008,Clouds,Broken Clouds,4.5,93.2
+Bangalore,India,28,30,65,1010,Rain,Light Rain,3.2,82.4
+Mumbai,India,32,36,75,1006,Haze,Moderate Haze,5.1,89.6
+Delhi,India,39,42,45,1002,Clear,Clear Sky,2.8,102.2
